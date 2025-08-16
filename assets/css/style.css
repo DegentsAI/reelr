@@ -41,7 +41,8 @@ html {
   font-weight: 400;
   line-height: 1.6em;
   overflow-x: hidden;
-  background-color: #181818;
+  background: url(../img/pattern-line.svg) #181818;
+  background-repeat: no-repeat;
 }
 
 h1,
